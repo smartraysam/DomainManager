@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MACED", "DomainManager\MACED.csproj", "{B7B86FFF-1F28-4595-BD15-65483926FA78}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{F537D4CF-E86C-456B-8110-5989FDD27F63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B86FFF-1F28-4595-BD15-65483926FA78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B86FFF-1F28-4595-BD15-65483926FA78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B86FFF-1F28-4595-BD15-65483926FA78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B86FFF-1F28-4595-BD15-65483926FA78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F537D4CF-E86C-456B-8110-5989FDD27F63}.Debug|Any CPU.ActiveCfg = Debug
+		{F537D4CF-E86C-456B-8110-5989FDD27F63}.Release|Any CPU.ActiveCfg = Release
+		{F537D4CF-E86C-456B-8110-5989FDD27F63}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE7F3AD0-810D-4491-BB6D-F32AD7E3E07A}
+	EndGlobalSection
+EndGlobal
